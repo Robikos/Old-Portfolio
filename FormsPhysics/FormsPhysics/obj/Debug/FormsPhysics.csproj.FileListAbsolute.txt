@@ -1,0 +1,9 @@
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\bin\Debug\FormsPhysics.exe.config
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\bin\Debug\FormsPhysics.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\bin\Debug\FormsPhysics.pdb
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.csprojResolveAssemblyReference.cache
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.Form1.resources
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.Properties.Resources.resources
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.csproj.GenerateResource.Cache
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\FormsPhysics\FormsPhysics\obj\Debug\FormsPhysics.pdb
