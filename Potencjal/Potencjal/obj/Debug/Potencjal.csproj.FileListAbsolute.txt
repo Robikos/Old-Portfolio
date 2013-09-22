@@ -1,0 +1,9 @@
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\bin\Debug\Potencjal.exe.config
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\bin\Debug\Potencjal.exe
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\bin\Debug\Potencjal.pdb
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.csprojResolveAssemblyReference.cache
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.Form1.resources
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.Properties.Resources.resources
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.csproj.GenerateResource.Cache
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.exe
+C:\Users\Boberto\Documents\Projekty GrafikaFizykaSymulacje\Potencjal\Potencjal\obj\Debug\Potencjal.pdb
