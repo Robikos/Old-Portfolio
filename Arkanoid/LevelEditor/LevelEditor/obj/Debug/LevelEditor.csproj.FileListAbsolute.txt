@@ -1,0 +1,9 @@
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Form1.resources
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\LevelEditor\LevelEditor\obj\Debug\LevelEditor.pdb

@@ -1,0 +1,12 @@
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\bin\Release\Arkanoid.exe.config
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\bin\Release\Arkanoid.exe.manifest
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\bin\Release\Arkanoid.application
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\bin\Release\Arkanoid.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\bin\Release\Arkanoid.pdb
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.exe.manifest
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.application
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.exe
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.pdb
+C:\Users\Boberto\Documents\Projekty Dev-Cpp\Programowanie Obiektowe\proj\ZALICZ\Arkanoid\Arkanoid\obj\Release\Arkanoid.OknoGry.resources

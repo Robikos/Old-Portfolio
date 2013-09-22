@@ -1,0 +1,4 @@
+pwr.txt
+siema.txt
+siema3.txt
+siema2.txt
